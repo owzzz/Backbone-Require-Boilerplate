@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "express": "3.x"
+    "express": "4.16.0"
   },
   "main": "./server/server",
   "keywords": ["Backbone.js", "Require.js", "Backbone and Require Boilerplate"]
